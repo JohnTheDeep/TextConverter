@@ -1,0 +1,6 @@
+@TextConverter.Api_HostAddress = http://localhost:5182
+
+GET {{TextConverter.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
